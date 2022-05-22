@@ -1,4 +1,4 @@
-%% https://github.com/Sahil-Kolambkar/Signals_and_Systems_Assignment-05
+%% For a simple box function on the interval -2 to +2, compute the Fourier transform integral using trapz command
 
 clc
 clear all
