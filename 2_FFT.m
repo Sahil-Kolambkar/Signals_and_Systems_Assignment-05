@@ -1,3 +1,5 @@
+%% Plot amplitude spectrum, magnitude spectrum and phase spectrum for the signal x(t) = cos(2π100t) + cos(2π500t)
+
 clc
 clear
 close all
